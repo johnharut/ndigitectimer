@@ -2,10 +2,7 @@ var Promise = TrelloPowerUp.Promise;
 
 var TIMER_ICON = 'https://cdn.glitch.com/a70126d2-0a54-42d9-b2bd-7f5d589fd3ff%2Ffavicon.png?1491218389939';
 
-var getBadges = function (t) {
-    return t.cardButton
-}
-
+//Init Trello
 TrelloPowerUp.initialize({
 
     'authorization-status': function (t, options) {
