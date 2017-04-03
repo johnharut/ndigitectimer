@@ -5,9 +5,9 @@ var TIMER_ICON = 'https://cdn.glitch.com/a70126d2-0a54-42d9-b2bd-7f5d589fd3ff%2F
 //Init Trello
 TrelloPowerUp.initialize({
 
-    'authorization-status': function (t, options) {
-        return new TrelloPowerUp.Promise(resolve({authorized: true }))
-    },
+    // 'authorization-status': function (t, options) {
+    //     return new TrelloPowerUp.Promise(resolve({authorized: true }))
+    // },
 
     'card-buttons': function () {
         return [{
