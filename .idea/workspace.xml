@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f878a6-3b83-4d7a-8b5e-14cb9d684c89" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/node-modules/pikaday.js" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/pikaday.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/.npmignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/time-button-popup.html" afterPath="$PROJECT_DIR$/public/time-button-popup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/bound-container.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/bound-container.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/calendars.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/calendars.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/container.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/container.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/date-range.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/date-range.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/daysInNextMonth.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/daysInNextMonth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/diableDayFn.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/diableDayFn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/jquery.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/jquery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/moment.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/moment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/positions.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/positions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/theme.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/theme.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/trigger.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/trigger.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/examples/weeknumbers.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/examples/weeknumbers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/index.html" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/plugins/pikaday.jquery.js" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/plugins/pikaday.jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/tests/methods.js" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/tests/methods.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/node-modules/pikaday/tests/module.js" afterPath="$PROJECT_DIR$/views/node-modules/pikaday/tests/module.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pikaday.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pikaday.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/pikaday.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-402">
@@ -63,6 +46,16 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,6 +175,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="node-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,7 +305,7 @@
       <option name="presentableId" value="Default" />
       <updated>1491224311664</updated>
       <workItem from="1491224313965" duration="2385000" />
-      <workItem from="1491285709378" duration="7962000" />
+      <workItem from="1491285709378" duration="8156000" />
     </task>
     <task id="LOCAL-00001" summary="Change timer height">
       <created>1491224495302</created>
@@ -401,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491298768732</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Change directory of Pikaday">
+      <created>1491301257312</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1491301257312</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10347000" />
+    <option name="totallyTimeSpent" value="10541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
@@ -648,14 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/css/pikaday.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -703,6 +699,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/node-modules/pikaday/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
