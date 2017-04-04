@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f878a6-3b83-4d7a-8b5e-14cb9d684c89" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node/asas.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -57,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
               <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asas.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/node/asas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -114,8 +125,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -136,6 +147,7 @@
         <option value="$PROJECT_DIR$/public/css/time-button.css" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/public/time-button-popup.html" />
+        <option value="$PROJECT_DIR$/public/node/asas.html" />
       </list>
     </option>
   </component>
@@ -266,6 +278,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -373,7 +403,7 @@
       <option name="presentableId" value="Default" />
       <updated>1491224311664</updated>
       <workItem from="1491224313965" duration="2385000" />
-      <workItem from="1491285709378" duration="6310000" />
+      <workItem from="1491285709378" duration="6370000" />
     </task>
     <task id="LOCAL-00001" summary="Change timer height">
       <created>1491224495302</created>
@@ -431,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491295374864</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added directory">
+      <created>1491295550134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491295550134</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8695000" />
+    <option name="totallyTimeSpent" value="8755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
@@ -475,7 +512,8 @@
     <MESSAGE value="Added Pickaday function" />
     <MESSAGE value="Added use on Server.js" />
     <MESSAGE value="Added views directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added views directory" />
+    <MESSAGE value="Added directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,6 +716,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/node/asas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
