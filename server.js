@@ -14,9 +14,10 @@ app.use(cors({ origin: 'https://trello.com' }));
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
+app.use(express.static('node_modules'));
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function () {
-  console.info(`Node Version: ${process.version}`);
+  //console.info(`Node Version: ${process.version}`);
   console.log('Trello Power-Up Server listening on port ' + listener.address().port);
 });
