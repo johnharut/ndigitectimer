@@ -1,9 +1,390 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8f878a6-3b83-4d7a-8b5e-14cb9d684c89" name="Default" comment="Added Pickaday function">
+    <list default="true" id="d8f878a6-3b83-4d7a-8b5e-14cb9d684c89" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/CHANGELOG.md" afterPath="$PROJECT_DIR$/views/node_modules/moment/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/LICENSE" afterPath="$PROJECT_DIR$/views/node_modules/moment/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/README.md" afterPath="$PROJECT_DIR$/views/node_modules/moment/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/ender.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/ender.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/af.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/af.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-dz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-dz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-kw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-kw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-ly.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-ly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-ma.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-ma.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-sa.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-sa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar-tn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar-tn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ar.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/az.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/az.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/be.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/be.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/bg.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/bg.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/bn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/bn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/bo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/bo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/br.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/br.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/bs.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/bs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/cs.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/cs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/cv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/cv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/cy.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/cy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/da.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/da.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/de-at.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/de-at.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/de-ch.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/de-ch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/de.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/de.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/dv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/dv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/el.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/el.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/en-au.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/en-au.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/en-ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/en-ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/en-gb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/en-gb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/en-ie.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/en-ie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/en-nz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/en-nz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/eo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/eo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/es-do.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/es-do.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/es.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/es.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/et.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/et.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/eu.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/eu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fa.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fr-ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fr-ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fr-ch.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fr-ch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/fy.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/fy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/gd.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/gd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/gl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/gl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/gom-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/gom-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/he.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/he.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/hi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/hi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/hr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/hr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/hu.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/hu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/hy-am.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/hy-am.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/id.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/id.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/is.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/is.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/it.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/it.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ja.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ja.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/jv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/jv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ka.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ka.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/kk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/kk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/km.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/km.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/kn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/kn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ko.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ko.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ky.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/lb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/lb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/lo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/lo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/lt.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/lt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/lv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/lv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/me.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/mi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/mi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/mk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/mk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ml.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ml.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/mr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/mr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ms-my.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ms-my.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ms.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ms.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/my.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/my.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/nb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/nb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ne.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ne.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/nl-be.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/nl-be.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/nl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/nl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/nn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/nn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/pa-in.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/pa-in.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/pl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/pl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/pt-br.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/pt-br.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/pt.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/pt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ro.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ro.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ru.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ru.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sd.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/se.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/se.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/si.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/si.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sq.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sq.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sr-cyrl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sr-cyrl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ss.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ss.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/sw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/sw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ta.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ta.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/te.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/te.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tet.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/th.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/th.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tl-ph.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tl-ph.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tlh.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tlh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tzl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tzl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tzm-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tzm-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/tzm.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/tzm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/uk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/uk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/ur.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/ur.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/uz-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/uz-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/uz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/uz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/vi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/vi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/x-pseudo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/x-pseudo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/yo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/yo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/zh-cn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/zh-cn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/zh-hk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/zh-hk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/locale/zh-tw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/locale/zh-tw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/min/locales.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/min/locales.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/min/locales.min.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/min/locales.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/min/moment-with-locales.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/min/moment-with-locales.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/min/moment-with-locales.min.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/min/moment-with-locales.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/min/moment.min.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/min/moment.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/moment.d.ts" afterPath="$PROJECT_DIR$/views/node_modules/moment/moment.d.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/moment.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/moment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/package.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/package.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/package.json" afterPath="$PROJECT_DIR$/views/node_modules/moment/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/check-overflow.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/check-overflow.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/date-from-array.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/date-from-array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-anything.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-anything.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-array.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-object.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-object.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-string-and-array.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-string-and-array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-string-and-format.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-string-and-format.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/from-string.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/from-string.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/local.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/local.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/parsing-flags.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/parsing-flags.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/utc.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/utc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/create/valid.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/create/valid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/abs.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/abs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/add-subtract.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/add-subtract.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/as.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/as.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/bubble.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/bubble.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/constructor.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/constructor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/create.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/create.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/duration.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/duration.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/get.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/get.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/humanize.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/humanize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/iso-string.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/iso-string.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/prototype.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/prototype.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/duration/valid.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/duration/valid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/format/format.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/format/format.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/base-config.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/base-config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/calendar.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/calendar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/constructor.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/constructor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/en.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/en.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/formats.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/formats.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/invalid.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/invalid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/lists.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/lists.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/locale.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/locale.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/locales.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/locales.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/ordinal.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/ordinal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/pre-post-format.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/pre-post-format.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/prototype.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/prototype.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/relative.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/relative.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/set.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/locale/set.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/add-subtract.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/add-subtract.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/calendar.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/calendar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/clone.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/clone.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/compare.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/compare.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/constructor.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/constructor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/creation-data.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/creation-data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/diff.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/diff.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/format.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/format.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/from.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/from.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/get-set.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/get-set.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/locale.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/locale.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/min-max.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/min-max.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/moment.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/moment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/now.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/now.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/prototype.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/prototype.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/start-end-of.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/start-end-of.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/to-type.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/to-type.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/to.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/to.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/moment/valid.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/moment/valid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/parse/regex.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/parse/regex.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/parse/token.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/parse/token.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/aliases.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/aliases.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/constants.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/constants.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/day-of-month.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/day-of-month.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/day-of-week.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/day-of-week.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/day-of-year.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/day-of-year.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/hour.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/hour.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/millisecond.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/millisecond.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/minute.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/minute.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/month.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/month.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/offset.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/offset.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/priorities.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/priorities.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/quarter.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/quarter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/second.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/second.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/timestamp.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/timestamp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/timezone.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/timezone.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/units.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/units.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/week-calendar-utils.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/week-calendar-utils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/week-year.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/week-year.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/week.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/week.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/units/year.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/units/year.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/abs-ceil.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/abs-ceil.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/abs-floor.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/abs-floor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/abs-round.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/abs-round.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/compare-arrays.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/compare-arrays.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/defaults.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/defaults.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/deprecate.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/deprecate.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/extend.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/extend.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/has-own-prop.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/has-own-prop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/hooks.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/hooks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/index-of.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/index-of.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-array.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-date.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-date.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-function.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-function.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-number.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-number.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-object-empty.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-object-empty.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-object.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-object.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/is-undefined.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/is-undefined.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/keys.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/keys.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/map.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/map.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/some.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/some.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/to-int.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/to-int.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/lib/utils/zero-fill.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/lib/utils/zero-fill.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/af.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/af.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-dz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-dz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-kw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-kw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-ly.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-ly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-ma.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-ma.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-sa.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-sa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar-tn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar-tn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ar.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/az.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/az.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/be.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/be.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/bg.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/bg.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/bn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/bn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/bo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/bo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/br.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/br.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/bs.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/bs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/cs.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/cs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/cv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/cv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/cy.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/cy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/da.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/da.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/de-at.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/de-at.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/de-ch.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/de-ch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/de.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/de.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/dv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/dv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/el.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/el.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/en-au.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/en-au.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/en-ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/en-ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/en-gb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/en-gb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/en-ie.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/en-ie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/en-nz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/en-nz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/eo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/eo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/es-do.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/es-do.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/es.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/es.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/et.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/et.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/eu.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/eu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fa.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fr-ca.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fr-ca.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fr-ch.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fr-ch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/fy.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/fy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/gd.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/gd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/gl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/gl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/gom-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/gom-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/he.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/he.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/hi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/hi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/hr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/hr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/hu.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/hu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/hy-am.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/hy-am.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/id.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/id.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/is.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/is.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/it.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/it.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ja.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ja.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/jv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/jv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ka.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ka.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/kk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/kk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/km.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/km.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/kn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/kn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ko.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ko.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ky.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/lb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/lb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/lo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/lo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/lt.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/lt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/lv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/lv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/me.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/mi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/mi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/mk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/mk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ml.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ml.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/mr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/mr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ms-my.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ms-my.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ms.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ms.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/my.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/my.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/nb.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/nb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ne.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ne.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/nl-be.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/nl-be.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/nl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/nl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/nn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/nn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/pa-in.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/pa-in.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/pl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/pl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/pt-br.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/pt-br.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/pt.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/pt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ro.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ro.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ru.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ru.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sd.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/se.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/se.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/si.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/si.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sq.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sq.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sr-cyrl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sr-cyrl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ss.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ss.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sv.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/sw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/sw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ta.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ta.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/te.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/te.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tet.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/th.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/th.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tl-ph.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tl-ph.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tlh.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tlh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tr.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tzl.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tzl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tzm-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tzm-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/tzm.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/tzm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/uk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/uk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/ur.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/ur.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/uz-latn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/uz-latn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/uz.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/uz.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/vi.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/vi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/x-pseudo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/x-pseudo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/yo.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/yo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/zh-cn.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/zh-cn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/zh-hk.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/zh-hk.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/locale/zh-tw.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/locale/zh-tw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/moment/src/moment.js" afterPath="$PROJECT_DIR$/views/node_modules/moment/src/moment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/.editorconfig" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/.editorconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/.gitattributes" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/.gitattributes" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/.jshintrc" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/.jshintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/.npmignore" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/CHANGELOG.md" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/LICENSE" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/README.md" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/bower.json" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/component.json" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/component.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/css/pikaday.css" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/css/pikaday.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/css/site.css" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/css/site.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/css/theme.css" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/css/theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/css/triangle.css" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/css/triangle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/amd.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/amd.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/bound-container.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/bound-container.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/calendars.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/calendars.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/container.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/container.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/date-range.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/date-range.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/daysInNextMonth.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/daysInNextMonth.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/diableDayFn.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/diableDayFn.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/jquery-amd.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/jquery-amd.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/jquery.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/jquery.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/moment.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/moment.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/positions.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/positions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/theme.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/theme.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/trigger.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/trigger.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/examples/weeknumbers.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/examples/weeknumbers.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/index.html" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/package.json" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/pikaday.js" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/pikaday.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/plugins/pikaday.jquery.js" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/plugins/pikaday.jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/scss/pikaday.scss" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/scss/pikaday.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/tests/methods.js" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/tests/methods.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/pikaday/tests/module.js" afterPath="$PROJECT_DIR$/views/node_modules/pikaday/tests/module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/time-button-popup.html" afterPath="$PROJECT_DIR$/public/time-button-popup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +412,8 @@
       <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -58,24 +439,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="time-button-popup.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/time-button-popup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            <state relative-caret-position="78">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,8 +516,8 @@
         <option value="$PROJECT_DIR$/public/js/client.js" />
         <option value="$PROJECT_DIR$/public/js/timer.js" />
         <option value="$PROJECT_DIR$/public/css/time-button.css" />
-        <option value="$PROJECT_DIR$/public/time-button-popup.html" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/time-button-popup.html" />
       </list>
     </option>
   </component>
@@ -137,7 +528,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/views/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -186,6 +577,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pikaday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pikaday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ndigitectimer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -208,38 +665,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ndigitectimer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ndigitectimer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pikaday" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ndigitectimer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ndigitectimer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -250,6 +675,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -342,7 +772,7 @@
       <option name="presentableId" value="Default" />
       <updated>1491224311664</updated>
       <workItem from="1491224313965" duration="2385000" />
-      <workItem from="1491285709378" duration="5547000" />
+      <workItem from="1491285709378" duration="6036000" />
     </task>
     <task id="LOCAL-00001" summary="Change timer height">
       <created>1491224495302</created>
@@ -386,11 +816,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491293114406</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added use on Server.js">
+      <created>1491294081519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1491294081519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7932000" />
+    <option name="totallyTimeSpent" value="8421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
@@ -427,7 +864,8 @@
     <MESSAGE value="Commented Auth-Status" />
     <MESSAGE value="Added time-button-popup.html&#10;and time button.css" />
     <MESSAGE value="Added Pickaday function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Pickaday function" />
+    <MESSAGE value="Added use on Server.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added use on Server.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,7 +990,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/pikaday/examples/container.html">
+    <entry file="file://$PROJECT_DIR$/views/node_modules/pikaday/examples/container.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
@@ -560,7 +998,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/pikaday/examples/bound-container.html">
+    <entry file="file://$PROJECT_DIR$/views/node_modules/pikaday/examples/bound-container.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -592,22 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/timer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/time-button-popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -618,11 +1040,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/time-button-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
